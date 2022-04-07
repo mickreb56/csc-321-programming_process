@@ -1,0 +1,13 @@
+Michael Krebsbach
+
+Start 3:19 PM, 9/24/2010
+
+- figuring out how to get an empty web page
+- figured out how to get a web page to show the map
+- reading through https://openlayers.org/en/latest/doc/quickstart.html
+- reading through api docs for openlayers
+- figured out how to add a marker onto the map
+- figured out how to add text popup to the marker
+- figuring out where to host this html at
+
+*/
